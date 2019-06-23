@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">N0 Calc</string>
+    <string name="koksadelestirme">Simplifying Square Roots</string>
+    <string name="kontrol">Finding Multipliers</string>
+    <string name="bulma">Finding Prime</string>
+    <string name="giris">Select a Mode</string>
+    <string name="ortc">Finding Common Divisor</string>
+    <string name="kokbutton">Simplifying</string>
+    <string name="kokedittext">Enter the number in the root</string>
+    <string name="kontrolet">Find</string>
+    <string name="tanim">Enter Number</string>
+    <string name="dark">Dark Theme</string>
+    <string name="light">Light Theme</string>
+    <string name="comeback">Cancel</string>
+    <string name="sayi_giriniz">Enter Number</string>
+    <string name="daha_kucuk_sayi">You have entered a too big number</string>
+    <string name="farklı_sayi">Enter different numbers</string>
+    <string name="tam_bolen_yok">No common divider found</string>
+    <string name="ortak_bolenler">Common Divisors:</string>
+    <string name="daha_kucuk_aralik">Please Enter Smaller Limit or Range</string>
+    <string name="asal_yoktur">There is no prime number in this range</string>
+    <string name="asal_sayilar">Prime number in this range:</string>
+    <string name="deger_giriniz">Please enter a value</string>
+    <string name="daha_kucuk_deger">Please enter a smaller value</string>
+    <string name="kucuk_degil">Lower limit is not smaller</string>
+    <string name="daha_kucuk_deger_gir">Please enter a smaller value</string>
+    <string name="sayi_asal_degildir">Number isn\'t prime</string>
+    <string name="sayi_asaldir">Number is Prime</string>
+    <string name="tam_bolundugu_sayılar">Full Divisor Numbers:</string>
+    <string name="ve">and</string>
+    <string name="alt_limit_gir">Enter Lower Limit</string>
+    <string name="ust_limit_gir">Enter Higher Limit</string>
+    <string name="bir_boleni_giriniz">Enter A Number</string>
+    <string name="diger_boleni_giriniz">Enter Other Number</string>
+    <string name="cıkmak_istediginiz">Do you really want to exit?</string>
+    <string name="bekleyiniz">Please Wait</string>
+</resources>

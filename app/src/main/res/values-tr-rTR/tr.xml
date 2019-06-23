@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">N0 Calc</string>
+    <string name="koksadelestirme">Karekök Sadeleştime</string>
+    <string name="kontrol">Çarpan Bulma</string>
+    <string name="bulma">Asal Bulma</string>
+    <string name="giris">Mod Seçiniz</string>
+    <string name="ortc">Ortak Bölen Bulma</string>
+    <string name="kokbutton">Sadeleştir</string>
+    <string name="kokedittext">Kök İçindeki Sayıyı Giriniz</string>
+    <string name="kontrolet">Bul</string>
+    <string name="tanim">Sayıyı Giriniz</string>
+    <string name="dark">Koyu tema</string>
+    <string name="light">Açık Tema</string>
+    <string name="comeback">Geri Dön</string>
+    <string name="sayi_giriniz">Sayı giriniz</string>
+    <string name="daha_kucuk_sayi">Daha küçük bir sayı giriniz</string>
+    <string name="farklı_sayi">Lütfen farklı sayılar giriniz</string>
+    <string name="tam_bolen_yok">Ortak bölen bulunamadı</string>
+    <string name="ortak_bolenler">Ortak bölenler:</string>
+    <string name="daha_kucuk_aralik">Lütfen Daha Küçük Limit veya Aralık Giriniz</string>
+    <string name="asal_yoktur">Bu aralıkta asal sayı yoktur</string>
+    <string name="asal_sayilar">Bu aralıktaki asal sayılar:</string>
+    <string name="deger_giriniz">Lütfen değer giriniz</string>
+    <string name="daha_kucuk_deger">Lütfen daha küçük bir değer giriniz</string>
+    <string name="kucuk_degil">Alt limit daha küçük değil</string>
+    <string name="daha_kucuk_deger_gir">Lütfen daha küçük değer giriniz</string>
+    <string name="sayi_asal_degildir">Sayı Asal Değildir</string>
+    <string name="sayi_asaldir">Sayı Asaldır</string>
+    <string name="tam_bolundugu_sayılar">Tam Bölündüğü Sayılar:</string>
+    <string name="ve">ve</string>
+    <string name="alt_limit_gir">Alt Limit Giriniz</string>
+    <string name="ust_limit_gir">Üst Limit Giriniz</string>
+    <string name="bir_boleni_giriniz">Bir Sayıyı Giriniz</string>
+    <string name="diger_boleni_giriniz">Diğer Sayıyı Giriniz</string>
+    <string name="cıkmak_istediginiz">Çıkmak istediğinize emin misiniz?</string>
+    <string name="bekleyiniz">Lütfen Bekleyiniz</string>
+</resources>
